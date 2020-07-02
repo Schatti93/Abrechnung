@@ -18,7 +18,7 @@ public class  BillingMenu {
 		billingMenu = new JMenuBar();
 		
 		//Menu entrys
-		JMenu file = new JMenu("datei");
+		JMenu file = new JMenu("Datei");
 		
 		//Entry items
 		JMenuItem newBill = new JMenuItem("Neue Rechnung");
